@@ -1,0 +1,45 @@
+# jemdoc: {index.html}, nofooter  
+= Liu AAA
+
+M.Eng. Student in Pattern Recognition and Intelligent Systems at [https://en.xmu.edu.cn Xiamen University].
+\n
+Supervisor: [https://scholar.google.co.uk/citations?user=pa7wzD4AAAAJ&hl=en Prof. Yifeng Zeng].
+\n
+\n
+E-mail: [liuruiying@stu.xmu.edu.cn liuruiying@stu.xmu.edu.cn]
+\n
+[CV_RuiyingLiu.pdf CV] / [CV_RuiyingLiu_CH.pdf 简历]
+
+
+== Education
+Expected to receive M.Eng. degree from the Department of Automation at Xiamen University in 2022. 
+\n Received my B.Eng. degree in Automation at Xiamen University in 2019.
+
+
+== Research 
+Currently my research focuses on combining visual and textual features for document layout analysis which aims to recognise components on document images like title, body, tables, etc. \n
+My research interests:
+- Deep Learning for Computer Vision
+- Machine Learning
+- Digital Image Processing
+- Multimodal Learning
+
+== Project
+It aims to develop an system to mark exam papers automatically, cooperated with an educational technology company in Nanjing, China.
+- My main work was to detect desirable parts(e.g. student information) on paper images based on connected component analysis and the algorithm has been applied in real scenario.
+- I am also responsible for coordination and communication.
+
+== Publications 
+. Ruiying Liu, Shenbao Yu, Fan Yang, Yinghui Pan, Yizeng Zeng. [https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/53771603/iccse.pdf /"A Connected Components Based Layout Analysis Approach for Educational Documents"/], 15th International Conference on Computer Science & Education (ICCSE), IEEE, 2021. [iccse_poster.pdf [Poster\] ]
+
+== Selected Awards
+. The 2nd prize in the China University Robot Competition (ROBOCON-China) in 2018
+. The 1st prize in the National College Students Mechanical Innovation Design Competition (the Fischertechnik group) in 2018
+. National Encouragement Scholarship in 2016 and 2018
+. Merit Student in Xiamen University in 2016
+
+== Teaching Asistant
+- System Identification, XMU, Spring 2020.
+
+== Hobbies
+I like to play badminton, swim and go to the gym in my leisure time.
